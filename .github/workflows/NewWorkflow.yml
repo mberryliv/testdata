@@ -1,4 +1,4 @@
-name: new-work-flow
+name: newworkflow
 on: push
 jobs: 
   build:
